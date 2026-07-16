@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
