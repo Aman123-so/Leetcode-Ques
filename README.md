@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,19 +68,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0633-sum-of-square-numbers) |
 | [2413-smallest-even-multiple](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0633-sum-of-square-numbers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
