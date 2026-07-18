@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0633-sum-of-square-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3658-gcd-of-odd-and-even-sums) |
