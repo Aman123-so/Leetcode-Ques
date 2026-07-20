@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0383-ransom-note) |
