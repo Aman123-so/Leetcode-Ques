@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
