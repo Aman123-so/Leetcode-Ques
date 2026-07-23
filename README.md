@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0383-ransom-note) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0383-ransom-note) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2150-find-all-lonely-numbers-in-the-array) |
