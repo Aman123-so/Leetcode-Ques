@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0868-binary-gap](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
