@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0583-delete-operation-for-two-strings) |
+| [0796-rotate-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
