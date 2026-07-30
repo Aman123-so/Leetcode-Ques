@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0039-combination-sum) |
 | [0136-single-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0633-sum-of-square-numbers) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
