@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2007-find-original-array-from-doubled-array) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
