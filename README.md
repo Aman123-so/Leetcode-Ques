@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2007-find-original-array-from-doubled-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
