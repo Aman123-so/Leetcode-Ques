@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2963-count-the-number-of-good-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3132-find-the-integer-added-to-array-ii) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
