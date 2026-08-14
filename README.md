@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2963-count-the-number-of-good-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3340-check-balanced-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
