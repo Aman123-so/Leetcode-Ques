@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
 | [1507-reformat-date](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1507-reformat-date) |
+| [1544-make-the-string-great](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1544-make-the-string-great](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2390-removing-stars-from-a-string) |
