@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1512-number-of-good-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0633-sum-of-square-numbers) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1539-kth-missing-positive-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1539-kth-missing-positive-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
