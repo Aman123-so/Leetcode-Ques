@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1331-rank-transform-of-an-array) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
