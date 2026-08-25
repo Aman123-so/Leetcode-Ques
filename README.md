@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2007-find-original-array-from-doubled-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2007-find-original-array-from-doubled-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
