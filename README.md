@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2540-minimum-common-value](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2540-minimum-common-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2963-count-the-number-of-good-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2007-find-original-array-from-doubled-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3132-find-the-integer-added-to-array-ii) |
@@ -557,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0455-assign-cookies) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
