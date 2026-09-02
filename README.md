@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0303-range-sum-query-immutable) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1480-running-sum-of-1d-array) |
@@ -577,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
