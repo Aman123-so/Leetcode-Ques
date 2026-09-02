@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
