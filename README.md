@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0881-boats-to-save-people) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
