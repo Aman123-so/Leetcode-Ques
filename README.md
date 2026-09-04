@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1991-find-the-middle-index-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2007-find-original-array-from-doubled-array) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
