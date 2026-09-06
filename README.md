@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
