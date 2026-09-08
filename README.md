@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
