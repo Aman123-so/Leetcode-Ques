@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Enumeration
