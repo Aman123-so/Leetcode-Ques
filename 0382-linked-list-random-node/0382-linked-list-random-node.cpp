@@ -20,7 +20,7 @@ public:
       int result=0;
       ListNode* temp=Head;
       while(temp!=NULL){
-        if(rand()% count < 1.0/count){
+        if(rand()% count ==0){
             result= temp->val;
         }
         count ++;
