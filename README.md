@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3634-minimum-removals-to-balance-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1291-sequential-digits) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
 |  |
