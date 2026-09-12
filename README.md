@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0204-count-primes) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0877-stone-game) |
