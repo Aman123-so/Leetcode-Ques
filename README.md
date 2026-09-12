@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0260-single-number-iii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0383-ransom-note) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0455-assign-cookies) |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0191-number-of-1-bits) |
 ## Counting Sort
@@ -644,4 +649,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
