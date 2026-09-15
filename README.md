@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0349-intersection-of-two-arrays) |
