@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1208-get-equal-substrings-within-budget) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0374-guess-number-higher-or-lower) |
 ## Stack
 |  |
 | ------- |
