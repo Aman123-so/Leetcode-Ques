@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1991-find-the-middle-index-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1991-find-the-middle-index-in-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2444-count-subarrays-with-fixed-bounds) |
