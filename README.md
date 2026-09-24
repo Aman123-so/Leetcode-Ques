@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3634-minimum-removals-to-balance-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
