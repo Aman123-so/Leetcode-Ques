@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0349-intersection-of-two-arrays) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0382-linked-list-random-node) |
