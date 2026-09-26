@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1051-height-checker](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0881-boats-to-save-people) |
+| [1051-height-checker](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1051-height-checker) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1331-rank-transform-of-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bucket Sort
 |  |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1051-height-checker) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
