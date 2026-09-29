@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0523-continuous-subarray-sum) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
