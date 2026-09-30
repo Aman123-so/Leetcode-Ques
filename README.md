@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1051-height-checker](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1329-sort-the-matrix-diagonally) |
 | [1572-matrix-diagonal-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1572-matrix-diagonal-sum) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -731,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Design
 |  |
