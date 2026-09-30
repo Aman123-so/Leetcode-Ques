@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
