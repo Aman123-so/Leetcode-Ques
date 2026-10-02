@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0316-remove-duplicate-letters) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0542-01-matrix) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0113-path-sum-ii) |
 ## Tree
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
