@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0382-linked-list-random-node) |
