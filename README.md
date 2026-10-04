@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0877-stone-game) |
 | [1395-count-number-of-teams](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1395-count-number-of-teams) |
 ## Binary Search
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1400-construct-k-palindrome-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1400-construct-k-palindrome-strings) |
@@ -806,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Floyd's Cycle Finding Algorithm
