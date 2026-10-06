@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0915-partition-array-into-disjoint-intervals) |
+| [0976-largest-perimeter-triangle](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1400-construct-k-palindrome-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1400-construct-k-palindrome-strings) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1051-height-checker) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1331-rank-transform-of-an-array) |
@@ -777,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0976-largest-perimeter-triangle) |
 ## Union-Find
 |  |
 | ------- |
@@ -838,4 +843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0070-climbing-stairs) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
