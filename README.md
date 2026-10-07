@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1408-string-matching-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
