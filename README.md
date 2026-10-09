@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
 | [1507-reformat-date](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1507-reformat-date) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1441-build-an-array-with-stack-operations) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1400-construct-k-palindrome-strings) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1927-sum-game) |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
