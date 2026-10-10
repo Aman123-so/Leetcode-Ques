@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0371-sum-of-two-integers) |
 | [0868-binary-gap](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0523-continuous-subarray-sum) |
