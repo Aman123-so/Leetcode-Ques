@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0523-continuous-subarray-sum) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0326-power-of-three) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
