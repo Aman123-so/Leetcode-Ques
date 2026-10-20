@@ -14,13 +14,13 @@ public:
 
         if (root == NULL)
             return NULL;
-
+            int curr=root->val;
         // Agar dono nodes left me hain
-        if (root->val > p->val && root->val > q->val)
+        if (curr > p->val && curr > q->val)
             return lowestCommonAncestor(root->left, p, q);
 
         // Agar dono nodes right me hain
-        if (root->val < p->val && root->val < q->val)
+        if (curr < p->val && curr < q->val)
             return lowestCommonAncestor(root->right, p, q);
 
         // Split point => LCA
