@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0342-power-of-four) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
