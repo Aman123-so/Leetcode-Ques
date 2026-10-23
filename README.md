@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
 ## Linked List
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0700-search-in-a-binary-search-tree) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0700-search-in-a-binary-search-tree) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0733-flood-fill) |
@@ -919,4 +923,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
