@@ -19,26 +19,18 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-        Node* curr= root;
-        while( curr!=NULL){
-            Node* dummy= new Node(0);
-            Node* tail= dummy;
+        if(root==NULL)
+        return NULL;
 
-            while(curr!=NULL){
-                if(curr->left!=NULL){
-                    tail->next= curr->left;
-                    tail= tail ->next;
-                }
-
-                if( curr->right!=NULL){
-                    tail->next= curr->right;
-                    tail= tail->next;
-                }
-                curr= curr->next;
-            }
-            curr= dummy->next;
-            delete dummy;
+        if(root->left!=NULL){
+            root->left->next= root->right;
         }
+        if( root->right!=NULL && root->next!=NULL){
+            root->right->next= root->next->left;
+        }
+        connect(root->left);
+        connect(root->right);
+
         return root;
     }
 };
