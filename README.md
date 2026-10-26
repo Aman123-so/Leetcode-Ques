@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1329-sort-the-matrix-diagonally) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1329-sort-the-matrix-diagonally) |
 | [1572-matrix-diagonal-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1572-matrix-diagonal-sum) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
 |  |
@@ -871,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
