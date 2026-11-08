@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1331-rank-transform-of-an-array) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1267-count-servers-that-communicate](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1400-construct-k-palindrome-strings) |
 | [1512-number-of-good-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1512-number-of-good-pairs) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1267-count-servers-that-communicate) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1329-sort-the-matrix-diagonally) |
 | [1572-matrix-diagonal-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
 |  |
@@ -901,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
