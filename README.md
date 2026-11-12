@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2963-count-the-number-of-good-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
