@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0877-stone-game) |
 | [1395-count-number-of-teams](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1395-count-number-of-teams) |
+| [3693-climbing-stairs-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
