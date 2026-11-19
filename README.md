@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2574-left-and-right-sum-differences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2007-find-original-array-from-doubled-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2405-optimal-partition-of-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2405-optimal-partition-of-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2007-find-original-array-from-doubled-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
