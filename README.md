@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2007-find-original-array-from-doubled-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2405-optimal-partition-of-string) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1927-sum-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2243-calculate-digit-sum-of-a-string) |
