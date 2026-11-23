@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
+| [0899-orderly-queue](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0899-orderly-queue) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0877-stone-game) |
+| [0899-orderly-queue](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0899-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1512-number-of-good-pairs) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0881-boats-to-save-people) |
+| [0899-orderly-queue](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0899-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1051-height-checker) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1329-sort-the-matrix-diagonally) |
@@ -997,4 +1000,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0572-subtree-of-another-tree) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
