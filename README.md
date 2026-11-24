@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0846-hand-of-straights) |
+| [0859-buddy-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0856-score-of-parentheses) |
+| [0859-buddy-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0890-find-and-replace-pattern) |
 | [0899-orderly-queue](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0899-orderly-queue) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
