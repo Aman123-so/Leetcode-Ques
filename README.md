@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0583-delete-operation-for-two-strings) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1408-string-matching-in-an-array) |
@@ -1012,4 +1014,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0944-delete-columns-to-make-sorted) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
