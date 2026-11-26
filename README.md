@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1927-sum-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
