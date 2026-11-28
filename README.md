@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2405-optimal-partition-of-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/0877-stone-game) |
 | [1395-count-number-of-teams](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1395-count-number-of-teams) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3693-climbing-stairs-ii](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aman123-so/Leetcode-Ques/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1927-sum-game](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2235-add-two-integers](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aman123-so/Leetcode-Ques/tree/master/2348-number-of-zero-filled-subarrays) |
